@@ -8,6 +8,6 @@ Thumbs.db
 tmp/
 # игнорировать 
 
-index.html_old
+*_old
 # игнорировать 
 *_backup.
